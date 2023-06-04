@@ -2,7 +2,7 @@
   "name": "chapter-3",
   "version": "1.0.0",
   "description": "",
-  "main": "compile.js",
+  "main": "Compile.js",
   "directories": {
     "test": "test"
   },
