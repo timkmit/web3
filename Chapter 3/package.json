@@ -7,11 +7,13 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Timur",
   "license": "ISC",
   "dependencies": {
-    "solc": "^0.8.20"
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.8.20",
+    "web3": "^1.10.0"
   }
 }
